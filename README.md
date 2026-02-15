@@ -6,7 +6,7 @@ Simple ascii clock in your terminal (cross platform).
 
 ## USAGE
 ```bash
-git clone https://github.com/0l3d/clot.git
+git clone https://git.sr.ht/~oled/clot
 cd clot/
 cargo build --release
 target/release/clot # with seconds

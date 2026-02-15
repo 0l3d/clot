@@ -14,4 +14,4 @@ target/release/clot -n #no seconds
 ```
 
 ## Author
-Created by **0l3d**
+Created by **oled**
